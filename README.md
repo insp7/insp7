@@ -18,6 +18,4 @@ My research interests include Computer Vision, Perception, and Event-Based Visio
 
 I have experience in software engineering, data analysis, and research.
 
-📫 Contact
-
-Email: aniket.konkar@gwu.edu LinkedIn: https://www.linkedin.com/in/aniket-konkar16/
+📫 Contact Email: aniket.konkar@gwu.edu LinkedIn: https://www.linkedin.com/in/aniket-konkar16/
