@@ -1,4 +1,4 @@
-## Hi, I am Aniket 👋
+## Hi, I'm Aniket 👋
 
 <!--
 **insp7/insp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My research interests include Computer Vision, Perception, and Event-Based Vision.
+- My research interests include Computer Vision, Perception, and Event-Based Vision.
