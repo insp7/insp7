@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 My research interests include Computer Vision, Perception, and Event-Based Vision.
 
 I have experience in software engineering, data analysis, and research.
-
-📫 Contact Email: aniket.konkar@gwu.edu LinkedIn: https://www.linkedin.com/in/aniket-konkar16/
