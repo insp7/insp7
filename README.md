@@ -15,19 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My research interests include Computer Vision, Perception, and Event-Based Vision.
+
 I have experience in software engineering, data analysis, and research, working on projects that involve programming, experimentation, and problem-solving.
-
-
-🌱Currently
-
-Researching event-based visual perception and acoustic signal reconstruction using neuromorphic sensors
-
-🌐 Learn More
-
-All publications, projects, and my CV are available here:
-👉 My Personal Website
 
 📫 Contact
 
-Email: aniket.konkar@gwu.edu
-LinkedIn: https://www.linkedin.com/in/aniket-konkar16/
+Email: aniket.konkar@gwu.edu LinkedIn: https://www.linkedin.com/in/aniket-konkar16/
