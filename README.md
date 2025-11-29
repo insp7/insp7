@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 My research interests include Computer Vision, Perception, and Event-Based Vision.
 
-I have experience in software engineering, data analysis, and research.
+I have experience in software engineering and data analysis.
